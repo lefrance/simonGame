@@ -1,4 +1,5 @@
 # simonGame
+a memory game
 
 ## markup 
 - html
